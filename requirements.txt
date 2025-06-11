@@ -1,0 +1,10 @@
+pandas==2.2.2           # For data manipulation and cleaning
+numpy==1.26.4           # For numerical operations
+scikit-learn==1.4.2     # For machine learning models and evaluation
+matplotlib==3.8.4       # For basic data visualization (plots, charts)
+seaborn==0.13.2         # For advanced statistical visualizations
+plotly==5.22.0          # For interactive and beautiful visualizations
+imbalanced-learn==0.12.2 # For handling imbalanced datasets (very useful in churn problems)
+streamlit==1.35.0       # For building the web app to present our project
+joblib==1.4.2           # For saving and loading trained ML models
+jupyter==1.0.0          # For writing code step-by-step in notebook format (exploratory analysis)
