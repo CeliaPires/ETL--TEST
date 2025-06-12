@@ -1,10 +1,14 @@
-pandas==2.2.2           # For data manipulation and cleaning
-numpy==1.26.4           # For numerical operations
-scikit-learn==1.4.2     # For machine learning models and evaluation
-matplotlib==3.8.4       # For basic data visualization (plots, charts)
-seaborn==0.13.2         # For advanced statistical visualizations
-plotly==5.22.0          # For interactive and beautiful visualizations
-imbalanced-learn==0.12.2 # For handling imbalanced datasets (very useful in churn problems)
-streamlit==1.35.0       # For building the web app to present our project
-joblib==1.4.2           # For saving and loading trained ML models
-jupyter==1.0.0          # For writing code step-by-step in notebook format (exploratory analysis)
+numpy==1.26.1
+pandas==2.1.1
+matplotlib==3.8.0
+seaborn==0.13.2
+ydata-profiling==4.12.0 # can be removed from requirements before deployment
+plotly==5.17.0
+ppscore==1.1.0 # can be removed from requirements before deployment
+streamlit==1.40.2
+feature-engine==1.6.1
+imbalanced-learn==0.11.0
+scikit-learn==1.3.1
+xgboost==1.7.6
+yellowbrick==1.5 # can be removed from requirements before deployment
+Pillow==10.0.1 # can be removed from requirements before deployment
