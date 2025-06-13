@@ -1,10 +1,9 @@
 ---
 name: User story template
 about: A template for basic user stories
-title: ''
-labels: ''
-assignees: ''
-
+title: ""
+labels: ""
+assignees: ""
 ---
 
 As a: ROLE
